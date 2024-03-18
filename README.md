@@ -15,4 +15,5 @@ classDiagram
         +Acreditar(): void
         +Debitar(): void
     }
+Cliente..Cuenta
 ```
